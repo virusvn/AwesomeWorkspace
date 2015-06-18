@@ -1,4 +1,4 @@
-# AwesomeWorkspace
+# Awesome Workspace for PHP Developer
 Note some awesome IDE, Plugin, Add-on, Tips for Fullstack Developer who is using PHP, HTML, CSS, JS, 
 
 # IDE
@@ -21,3 +21,8 @@ Note some awesome IDE, Plugin, Add-on, Tips for Fullstack Developer who is using
 - SFTP
 - Sublime Linter
 - XDebug Client
+
+# PHP Development
+
+- XHPROF
+- XDebug
