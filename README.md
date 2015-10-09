@@ -28,6 +28,10 @@ Note some awesome IDE, Plugin, Add-on, Tips for Fullstack Developer who is using
 - [HTMLPrettify] (https://github.com/victorporof/Sublime-HTMLPrettify)
 - SublimeLinter [js, jscs, css, sass]
 
+### Troubleshooting for Mac User
+
+- [Fix Mac Path](https://github.com/int3h/SublimeFixMacPath)
+
 # PHP Development
 
 - XHPROF
