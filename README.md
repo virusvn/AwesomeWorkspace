@@ -25,6 +25,8 @@ Note some awesome IDE, Plugin, Add-on, Tips for Fullstack Developer who is using
 - XDebug Client
 - Bracket Highlighter
 - PHP Completions Kit
+- [HTMLPrettify] (https://github.com/victorporof/Sublime-HTMLPrettify)
+- SublimeLinter [js, jscs, css, sass]
 
 # PHP Development
 
