@@ -21,13 +21,12 @@ Note some awesome IDE, Plugin, Add-on, Tips for Fullstack Developer who is using
 - PhpCS
 - SASS
 - SFTP
-- Sublime Linter
+- Sublime Linter[js, jscs, css, sass]
 - XDebug Client
 - Bracket Highlighter
 - PHP Completions Kit
 - [HTMLPrettify] (https://github.com/victorporof/Sublime-HTMLPrettify)
-- SublimeLinter [js, jscs, css, sass]
-
+- [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter)
 ### Troubleshooting for Mac User
 
 - [Fix Mac Path](https://github.com/int3h/SublimeFixMacPath)
